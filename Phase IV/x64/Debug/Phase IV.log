@@ -1,0 +1,7 @@
+﻿  main.cpp
+  mod_crypt.cpp
+  mod_outils.cpp
+  mod_pirater.cpp
+C:\Users\hanio\Desktop\Phase IV\mod_pirater.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Phase IV.vcxproj -> C:\Users\hanio\Desktop\Phase IV\x64\Debug\Phase IV.exe
